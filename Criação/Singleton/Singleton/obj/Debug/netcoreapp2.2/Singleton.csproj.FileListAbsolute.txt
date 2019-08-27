@@ -1,0 +1,11 @@
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Singleton\Singleton\bin\Debug\netcoreapp2.2\Singleton.deps.json
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Singleton\Singleton\bin\Debug\netcoreapp2.2\Singleton.runtimeconfig.json
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Singleton\Singleton\bin\Debug\netcoreapp2.2\Singleton.runtimeconfig.dev.json
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Singleton\Singleton\bin\Debug\netcoreapp2.2\Singleton.dll
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Singleton\Singleton\bin\Debug\netcoreapp2.2\Singleton.pdb
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Singleton\Singleton\obj\Debug\netcoreapp2.2\Singleton.csprojAssemblyReference.cache
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Singleton\Singleton\obj\Debug\netcoreapp2.2\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Singleton\Singleton\obj\Debug\netcoreapp2.2\Singleton.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Singleton\Singleton\obj\Debug\netcoreapp2.2\Singleton.AssemblyInfo.cs
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Singleton\Singleton\obj\Debug\netcoreapp2.2\Singleton.dll
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Singleton\Singleton\obj\Debug\netcoreapp2.2\Singleton.pdb

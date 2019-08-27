@@ -1,0 +1,11 @@
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Prototype\Prototype\bin\Debug\netcoreapp2.2\Prototype.deps.json
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Prototype\Prototype\bin\Debug\netcoreapp2.2\Prototype.runtimeconfig.json
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Prototype\Prototype\bin\Debug\netcoreapp2.2\Prototype.runtimeconfig.dev.json
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Prototype\Prototype\bin\Debug\netcoreapp2.2\Prototype.dll
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Prototype\Prototype\bin\Debug\netcoreapp2.2\Prototype.pdb
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Prototype\Prototype\obj\Debug\netcoreapp2.2\Prototype.csprojAssemblyReference.cache
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Prototype\Prototype\obj\Debug\netcoreapp2.2\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Prototype\Prototype\obj\Debug\netcoreapp2.2\Prototype.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Prototype\Prototype\obj\Debug\netcoreapp2.2\Prototype.AssemblyInfo.cs
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Prototype\Prototype\obj\Debug\netcoreapp2.2\Prototype.dll
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Prototype\Prototype\obj\Debug\netcoreapp2.2\Prototype.pdb

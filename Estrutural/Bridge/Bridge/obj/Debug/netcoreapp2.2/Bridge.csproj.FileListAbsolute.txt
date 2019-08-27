@@ -1,0 +1,11 @@
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Estrutural\Bridge\Bridge\bin\Debug\netcoreapp2.2\Bridge.deps.json
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Estrutural\Bridge\Bridge\bin\Debug\netcoreapp2.2\Bridge.runtimeconfig.json
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Estrutural\Bridge\Bridge\bin\Debug\netcoreapp2.2\Bridge.runtimeconfig.dev.json
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Estrutural\Bridge\Bridge\bin\Debug\netcoreapp2.2\Bridge.dll
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Estrutural\Bridge\Bridge\bin\Debug\netcoreapp2.2\Bridge.pdb
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Estrutural\Bridge\Bridge\obj\Debug\netcoreapp2.2\Bridge.csprojAssemblyReference.cache
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Estrutural\Bridge\Bridge\obj\Debug\netcoreapp2.2\Bridge.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Estrutural\Bridge\Bridge\obj\Debug\netcoreapp2.2\Bridge.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Estrutural\Bridge\Bridge\obj\Debug\netcoreapp2.2\Bridge.AssemblyInfo.cs
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Estrutural\Bridge\Bridge\obj\Debug\netcoreapp2.2\Bridge.dll
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Estrutural\Bridge\Bridge\obj\Debug\netcoreapp2.2\Bridge.pdb

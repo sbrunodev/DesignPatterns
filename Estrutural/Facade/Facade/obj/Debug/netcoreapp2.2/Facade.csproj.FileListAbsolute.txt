@@ -1,0 +1,11 @@
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Estrutural\Facade\Facade\bin\Debug\netcoreapp2.2\Facade.deps.json
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Estrutural\Facade\Facade\bin\Debug\netcoreapp2.2\Facade.runtimeconfig.json
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Estrutural\Facade\Facade\bin\Debug\netcoreapp2.2\Facade.runtimeconfig.dev.json
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Estrutural\Facade\Facade\bin\Debug\netcoreapp2.2\Facade.dll
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Estrutural\Facade\Facade\bin\Debug\netcoreapp2.2\Facade.pdb
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Estrutural\Facade\Facade\obj\Debug\netcoreapp2.2\Facade.csprojAssemblyReference.cache
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Estrutural\Facade\Facade\obj\Debug\netcoreapp2.2\Facade.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Estrutural\Facade\Facade\obj\Debug\netcoreapp2.2\Facade.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Estrutural\Facade\Facade\obj\Debug\netcoreapp2.2\Facade.AssemblyInfo.cs
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Estrutural\Facade\Facade\obj\Debug\netcoreapp2.2\Facade.dll
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\Udemy - Design Patterns\Estrutural\Facade\Facade\obj\Debug\netcoreapp2.2\Facade.pdb
