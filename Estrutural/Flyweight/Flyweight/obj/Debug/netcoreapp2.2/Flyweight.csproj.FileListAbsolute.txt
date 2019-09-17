@@ -1,0 +1,11 @@
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\DesignPatterns\Estrutural\Flyweight\Flyweight\bin\Debug\netcoreapp2.2\Flyweight.deps.json
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\DesignPatterns\Estrutural\Flyweight\Flyweight\bin\Debug\netcoreapp2.2\Flyweight.runtimeconfig.json
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\DesignPatterns\Estrutural\Flyweight\Flyweight\bin\Debug\netcoreapp2.2\Flyweight.runtimeconfig.dev.json
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\DesignPatterns\Estrutural\Flyweight\Flyweight\bin\Debug\netcoreapp2.2\Flyweight.dll
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\DesignPatterns\Estrutural\Flyweight\Flyweight\bin\Debug\netcoreapp2.2\Flyweight.pdb
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\DesignPatterns\Estrutural\Flyweight\Flyweight\obj\Debug\netcoreapp2.2\Flyweight.csprojAssemblyReference.cache
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\DesignPatterns\Estrutural\Flyweight\Flyweight\obj\Debug\netcoreapp2.2\Flyweight.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\DesignPatterns\Estrutural\Flyweight\Flyweight\obj\Debug\netcoreapp2.2\Flyweight.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\DesignPatterns\Estrutural\Flyweight\Flyweight\obj\Debug\netcoreapp2.2\Flyweight.AssemblyInfo.cs
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\DesignPatterns\Estrutural\Flyweight\Flyweight\obj\Debug\netcoreapp2.2\Flyweight.dll
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\DesignPatterns\Estrutural\Flyweight\Flyweight\obj\Debug\netcoreapp2.2\Flyweight.pdb
