@@ -17,8 +17,6 @@ namespace Memento.cs
             c.Memento = o.CreateMemento();
 
             o.State = "Off";
-            c.Memento = o.CreateMemento();
-            o.State = "Online";
 
             o.setMemento(c.Memento);
 
